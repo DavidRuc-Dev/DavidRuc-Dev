@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm David Rueda</h1>
 <h3 align="center">A mobile developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidruc&label=Visits&color=a10eb4&style=plastic" alt="davidruc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oplogi&label=Visits&color=a10eb4&style=plastic" alt="davidruc" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
