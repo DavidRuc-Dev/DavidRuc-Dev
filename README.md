@@ -12,6 +12,8 @@ I thrive in fast-paced environments, turning complex problems into elegant solut
 
 - 👨‍💻 All of my projects are available at [myportfolioshoulbehere](myportfolioshoulbehere)
 
+- 🪄 You can see some of my Figma proyects on this file [FigmaLink](myportfolioshoulbehere)****
+
 - 💬 Ask me about **FrontEnd - UI/UX - Node.js Development.**
 
 - 📫 How to reach me **davidarueda18@gmail.com**
