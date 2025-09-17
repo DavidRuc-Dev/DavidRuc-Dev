@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm David Rueda!</h1>
-<h3 align="center">A Mid Level FullStack Developer from Colombia</h3>
+<h3 align="center">🚀 Mid-Level FullStack Developer | Passionate about Frontend & UX | Based in Colombia</h3>
+
+<p align="center">
+I'm a passionate FullStack Developer with a strong focus on building clean, scalable, and user-friendly web applications.  
+I thrive in fast-paced environments, turning complex problems into elegant solutions — always with a strong eye for design and user experience.
+</p>
 
 - 💼 I’m currently working on [Kyndryl!](https://www.linkedin.com/company/kyndryl/posts/?feedView=all)
 
-- I'm looking to collaborate with **amazing brands**
+- 🤝 I'm looking to collaborate with **amazing brands**
 
 - 👨‍💻 All of my projects are available at [myportfolioshoulbehere](myportfolioshoulbehere)
 
